@@ -17,7 +17,7 @@ KENTAVR читає твою музичну бібліотеку, розбира�
 - **Вчиться твого вуха.** Кольори жорсткості (імпорт із Serato одним кліком), правки дропів, 👍 / 👎 на переходах, записи чужих міксів. Там, де не впевнений, програма сама питає.
 - **Digger.** Посилання на профіль SoundCloud, плейлист чи пошук: треки аналізуються як твої, і програма показує, що пасує саме до твоєї бібліотеки. Аудіо одразу видаляється.
 - **Експорт.** Крейт прямо в Serato, Rekordbox XML з хот-кю на дропах, M3U8, CSV, TXT-трекліст, нумерація треків у тегах.
-- **Інтерфейс** українською та англійською, масштаб 90–150%.
+- **Інтерфейс** українською, англійською, чеською та російською, масштаб 90–150%.
 
 | | |
 |---|---|
@@ -66,7 +66,7 @@ KENTAVR reads your music library, takes every track apart and builds a set from 
 - **It learns your ear.** Hardness colours (one-click import from Serato), drop fixes, 👍 / 👎 on transitions, recordings of other DJs' mixes. Where it is unsure, it asks.
 - **Digger.** A SoundCloud profile, playlist or search: the tracks are analysed like yours, and it shows what fits your library. The audio is deleted right away.
 - **Export.** A crate straight into Serato, Rekordbox XML with hot cues on the drops, M3U8, CSV, a TXT tracklist, track numbering in the tags.
-- **Interface** in Ukrainian and English, 90–150% scale.
+- **Interface** in Ukrainian, English, Czech and Russian, 90–150% scale.
 
 | | |
 |---|---|
