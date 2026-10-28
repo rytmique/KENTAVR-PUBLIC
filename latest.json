@@ -1,0 +1,8 @@
+{
+  "version": "10.2.1",
+  "file": "KENTAVR_Setup.exe",
+  "size": 27522560,
+  "sha256": "630f41c48267219e787aa06759df615d8ddd313b1ff0779c9d1b2e1896c8e1d6",
+  "notes": "Fix: the ear could not download its models on some Windows PCs (certificate error). Sets that flow, mix-in / mix-out points learned from real DJs, better key detection. After updating from 9.x: Settings → Analyse again",
+  "date": "2026-10-28"
+}
