@@ -1,4 +1,6 @@
-<p align="center"><b>◢ KENTAVR</b></p>
+<p align="center"><img src="docs/kentavr.png" width="132" alt="KENTAVR"></p>
+
+<p align="center"><b>KENTAVR</b></p>
 
 <p align="center">Set builder and library analyser for hard and industrial techno · Windows</p>
 
@@ -47,7 +49,7 @@ Your music, file names and folders stay on your computer, and there's no account
 
 <a id="ukrainian"></a>
 
-<p align="center"><b>◢ KENTAVR</b> · генератор сетів і аналізатор бібліотеки для hard та industrial techno · Windows</p>
+<p align="center"><b>KENTAVR</b> · генератор сетів і аналізатор бібліотеки для hard та industrial techno · Windows</p>
 
 <p align="center"><b><a href="https://github.com/Hester1337/KENTAVR-PUBLIC/raw/download/KENTAVR_Setup.exe">⬇ Завантажити для Windows</a></b></p>
 
